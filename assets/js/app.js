@@ -149,7 +149,7 @@ let footer = $(`
          
   
       <div class="copyright">
-       @2022 All Rights Reserved by Rahul-prashad.github.io | Design & Developed by Resolut Group
+       @2022 All Rights Reserved by Rahul-Prasad-07.github.io | Design & Developed by Resolut Group
       </div>
       
 `);
