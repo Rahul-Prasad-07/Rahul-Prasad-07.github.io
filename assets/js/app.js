@@ -146,11 +146,12 @@ let footer = $(`
               <input type="submit" value="Send" />
             </form>
           </div>
-        </div>
+         
+  
+      <div class="copyright">
+       @2022 All Rights Reserved by Rahul-prashad.github.io | Design & Developed by Resolut Group
       </div>
-    </div>
-  </div>
-</footer>
+      
 `);
 
 
