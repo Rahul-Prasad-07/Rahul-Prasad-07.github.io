@@ -41,6 +41,24 @@ html[data-theme="dark"] {
   --col-icon-leetcode:rgb(255, 181, 62);
   --col-white: #fff;
 }
+img{
+  height: 30%;
+  width: 30%;
+  border-radius: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px ;
+  align-items: center;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  
+}
+.rahul{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+
 /* Particle effect*/
 body{
   font-family: "Poppins";
@@ -116,6 +134,8 @@ body{
 
 .social-icons {
   display: flex;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-size: 20px;
   align-items: center;
   justify-content: center;
@@ -133,6 +153,8 @@ body{
   box-shadow: 2px 5px 5px var(--shadow-col);
   text-decoration: none;
   transition: var(--trans-props);
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .socialicon i {
   margin: auto;

@@ -103,7 +103,7 @@ let footer = $(`
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0 justify-content-center">
       <br/>
       <br/>
-      <a class="navbar-brand" href="index.html"> &emsp; &emsp; &emsp; Rahul Prasad  </a>
+      <!--<a class="navbar-brand" href="index.html"> &emsp; &emsp; &emsp; Rahul Prasad  </a>-->
         <p class="tag" >
         Balance is for average people, if you dream to achieve something extraordinary you need to be obsessed with it 24×7
         </p>

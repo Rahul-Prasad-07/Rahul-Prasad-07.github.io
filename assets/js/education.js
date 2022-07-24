@@ -5,14 +5,14 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Udemy",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "#",
+    title: "Upgrad",
+    cardImage: "assets/images/education-page/Upgrad.jpg",
+    moocLink: "https://learn.upgrad.com/",
   },
   {
-    title: "Coding Blocks",
-    cardImage: "assets/images/education-page/CB.jpg",
-    moocLink: "#",
+    title: "Twitter",
+    cardImage: "assets/images/education-page/twitter.jpg",
+    moocLink: " https://twitter.com/Prasad_Rahul511?t=9KfF7sgdh5xnR_VQ2WcYGQ&s=08",
   },
   {
     title: "Coding Ninjas",
@@ -22,7 +22,7 @@ const moocscards = [
   {
     title: "Youtube Creators ",
     cardImage: "assets/images/education-page/Youtube.jpg",
-    moocLink: "#",
+    moocLink: "https://www.youtube.com/c/KunalKushwaha",
   },
   
 ];
